@@ -24,4 +24,20 @@ In accordance with modern development standards, AI tools were effectively lever
 ## 📱 Project Setup & Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone <your-repository-url>
+   git clone [https://github.com/chamoddananjaya810/expense-tracker-flutter.git](https://github.com/chamoddananjaya810/expense-tracker-flutter.git)
+Navigate to the project directory:
+
+Bash
+cd expense_tracker
+Install dependencies:
+
+Bash
+flutter pub get
+Run the application:
+
+Bash
+flutter run
+🔗 Submission Links
+Screen Recording Video Link: [Google Drive Link එක මෙතැනට දාන්න]
+
+APK Release Build Link: [Google Drive Link එක මෙතැනට දාන්න]
