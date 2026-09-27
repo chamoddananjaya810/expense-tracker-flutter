@@ -25,19 +25,20 @@ In accordance with modern development standards, AI tools were effectively lever
 1. Clone the repository:
    ```bash
    git clone [https://github.com/chamoddananjaya810/expense-tracker-flutter.git](https://github.com/chamoddananjaya810/expense-tracker-flutter.git)
-Navigate to the project directory:
 
-Bash
-cd expense_tracker
-Install dependencies:
 
-Bash
-flutter pub get
-Run the application:
+2. Navigate to the project directory:
+     cd expense_tracker
 
-Bash
-flutter run
+3. Install dependencies:
+     flutter pub get
+   
+4. Run the application:
+     flutter run
+   
 🔗 Submission Links
-Screen Recording Video Link: [Google Drive Link එක මෙතැනට දාන්න]
+Screen Recording Video Link: 
+     https://drive.google.com/file/d/1IR9RYl4EhBjjwltLW_Wo6hnaPcwDQ4VZ/view?usp=sharing
 
-APK Release Build Link: [Google Drive Link එක මෙතැනට දාන්න]
+APK Release Build Link:
+     (https://drive.google.com/file/d/1PKCv8p4rexfMNpRLkYXmyAjr7bGN1Qtc/view?usp=sharing)
