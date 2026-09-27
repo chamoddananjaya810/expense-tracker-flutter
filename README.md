@@ -38,7 +38,7 @@ In accordance with modern development standards, AI tools were effectively lever
    
 🔗 Submission Links
 Screen Recording Video Link: 
-     https://drive.google.com/file/d/1IR9RYl4EhBjjwltLW_Wo6hnaPcwDQ4VZ/view?usp=sharing
+     (https://drive.google.com/file/d/1IR9RYl4EhBjjwltLW_Wo6hnaPcwDQ4VZ/view?usp=sharing)
 
 APK Release Build Link:
      (https://drive.google.com/file/d/1PKCv8p4rexfMNpRLkYXmyAjr7bGN1Qtc/view?usp=sharing)
